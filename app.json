@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "anatomofisiologia",
-    "slug": "anatomofisiologia",
-    "version": "1.0.0",
+    "name": "OdontoGame",
+    "slug": "anatomogame",
+    "version": "1.0.3",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,6 +21,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.gleydson.brito.anatomogame"
     }
   }
 }
